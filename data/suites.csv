@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1843","has title","webkit","Sun Nov 17 14:52:49 UTC 2024","passed","Sun Nov 17 14:52:51 UTC 2024","","","",""
+"","2191","get started link","webkit","Sun Nov 17 14:52:49 UTC 2024","passed","Sun Nov 17 14:52:51 UTC 2024","","","",""
+"","1133","has title","chromium","Sun Nov 17 14:52:46 UTC 2024","passed","Sun Nov 17 14:52:47 UTC 2024","","","",""
+"","3420","get started link","firefox","Sun Nov 17 14:52:46 UTC 2024","passed","Sun Nov 17 14:52:49 UTC 2024","","","",""
+"","3472","has title","firefox","Sun Nov 17 14:52:46 UTC 2024","passed","Sun Nov 17 14:52:49 UTC 2024","","","",""
+"","1352","get started link","chromium","Sun Nov 17 14:52:46 UTC 2024","passed","Sun Nov 17 14:52:47 UTC 2024","","","",""
