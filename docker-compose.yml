@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  tests:
+    build:
+      context: .
+    volumes:
+      - .:/app
+    environment:
+      BASE_URL: "https://example.com"
+    command: ["npx", "playwright", "test"]

@@ -1,5 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","484","Automate Basic Auth page","chromium","Mon Nov 18 09:34:43 GST 2024","passed","Mon Nov 18 09:34:44 GST 2024","","","",""
-"","369","has title","chromium","Mon Nov 18 09:34:44 GST 2024","passed","Mon Nov 18 09:34:44 GST 2024","","","",""
-"","422","Verify shadow dom","chromium","Mon Nov 18 09:34:45 GST 2024","passed","Mon Nov 18 09:34:45 GST 2024","Shadow Dom page tests - Verify page logic","","",""
-"","446","get started link","chromium","Mon Nov 18 09:34:44 GST 2024","passed","Mon Nov 18 09:34:45 GST 2024","","","",""
